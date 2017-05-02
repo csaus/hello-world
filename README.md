@@ -1,2 +1,6 @@
 # hello-world
-Just another reporsitory
+Just another repo
+
+Hi Humans
+
+I like java and python
